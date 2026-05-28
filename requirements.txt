@@ -1,0 +1,6 @@
+transformers
+python-dotenv
+gradio
+torch
+accelerate
+peft
